@@ -1,8 +1,8 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "amadeus-wallet-app",
+  "productName": "talken-messaging-app",
   "version": "0.1.0",
-  "identifier": "com.yato.amadeus-wallet-app",
+  "identifier": "com.himari.talken-messaging-app",
   "build": {
     "beforeDevCommand": "pnpm dev",
     "devUrl": "http://localhost:1420",
@@ -12,8 +12,8 @@
   "app": {
     "windows": [
       {
-        "title": "amadeus-wallet-app",
-        "width": 800,
+        "title": "talken-messaging-app",
+        "width": 1200,
         "height": 600
       }
     ],
